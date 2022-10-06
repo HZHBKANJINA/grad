@@ -1,0 +1,139 @@
+{
+    "idoli":[
+        {
+            "id": 30,
+            "ime": "Zdenko",
+            "prezime": "Bebek",
+            "nadimak": "Zdena Bebek",
+            "godiste": "1964",
+            "mjesto": "Tresanica",
+            "opis_idola": "Voli popiti rakiju viska svaki dan poslje posla,ozenio se ali ga zena ostavila zbog alkohola.Osigurava prava svih HRVATA."
+          },
+          {
+            "id": 31,
+            "ime": "Aleksandar",
+            "prezime": "Savcic",
+            "nadimak": "Braco Savcic",
+            "godiste": "1971",
+            "mjesto": "Tresanica",
+            "opis_idola": "Voli zene,voli koju rakiju viska,odrzava odnose izmedju HRVATA i SRBA koji su protjerani od balija."
+          },
+          {
+            "id": 32,
+            "ime": "Tihomir",
+            "prezime": "Sapina",
+            "nadimak": "Sapa",
+            "godiste": "1957",
+            "mjesto": "Tresanica",
+            "opis_idola": "Legenda HRVATA.Prevarila ga zena s drugim i odvela mu djecu.Zbog toga dobio blagi lom zivaca i poceo galamiti i smijati se glasno.U svom poslu je najbolji od svih."
+          },
+          {
+            "id": 33,
+            "ime": "Ivan",
+            "prezime": "Matic",
+            "nadimak": "Tatek Matan",
+            "godiste": "1950",
+            "mjesto": "Pleha",
+            "opis_idola": "Budala kojeg zena drzi pod kontrolom cijeli zivot.Napije ga i manipulise s njim.Teski alkoholicar ne trijezni se nikako."
+          },
+          {
+            "id": 34,
+            "ime": "Mladen",
+            "prezime": "Silic",
+            "nadimak": "Sile Zuti",
+            "godiste": "1967",
+            "mjesto": "Suhi dol",
+            "opis_idola": "Pijano,nije alkoholicar,vrijedan radi sve poslove,zena ga ostavila jer su joj drazi ljubavnici.Brine se o svojoj djeci."
+          },
+          {
+            "id": 35,
+            "ime": "Scepo",
+            "prezime": "Pavlovic",
+            "nadimak": "Pepo",
+            "godiste": "1951",
+            "mjesto": "Suhi dol",
+            "opis_idola": "Proizvodi i prodaje rakiju brlju s puno secera.Namiruje vecinu idola."
+          },
+          {
+            "id": 36,
+            "ime": "Zdravko",
+            "prezime": "Petrovic",
+            "nadimak": "Civa",
+            "godiste": "1958",
+            "mjesto": "Suhi dol",
+            "opis_idola": "Jedan od najboljih,voli ponekad popit rakiju viska,ima dobru zenu koja ga drzi pod kontrolom."
+          },
+          {
+            "id": 37,
+            "ime": "Andjelko",
+            "prezime": "Lasic",
+            "nadimak": "Bili",
+            "godiste": "1959",
+            "mjesto": "Suhi dol",
+            "opis_idola": "Ugostitelj koji u pizzeriju dovodi pijane,skrtac,nudi pice po prevelikoj cijeni."
+          },
+          {
+            "id": 38,
+            "ime": "Darko",
+            "prezime": "Simunovic",
+            "nadimak": "Dare",
+            "godiste": "1961",
+            "mjesto": "Orasje",
+            "opis_idola": "Proizvodi i prodaje rakiju jos goru brlju nego Pepo,pravi smicalice HRVATIMA i zavadja ih."
+          },
+          {
+            "id": 39,
+            "ime": "Vinko",
+            "prezime": "Pranjic",
+            "nadimak": "Zinge",
+            "godiste": "1970",
+            "mjesto": "Varda",
+            "opis_idola": "Teski alkoholicar koji se ne trijezni.Ozenio balinkuru koja od njega pravi bolesnika.Svadja se s narodom,duzan je cijeloj drzavi i narodu."
+          },
+          {
+            "id": 40,
+            "ime": "Zoran",
+            "prezime": "Delinac",
+            "nadimak": "Koke",
+            "godiste": "1960",
+            "mjesto": "Varda",
+            "opis_idola": "Budala koja je Brunu Rajica rastavila od zene,voli sjedit za istim stolom i na istoj stolici i spijunirat svoju ljubavnicu."
+          },
+          {
+            "id": 41,
+            "ime": "Zeljko",
+            "prezime": "Delinac",
+            "nadimak": "Svabo",
+            "godiste": "1969",
+            "mjesto": "Varda",
+            "opis_idola": "Jedan od najboljih,voli ponekad popit rakiju viska,voli zezanciju,pomaze HRVATIMA i suprostavlja se balijama."
+          },
+          {
+            "id": 42,
+            "ime": "Mladen",
+            "prezime": "Rados",
+            "nadimak": "Keca",
+            "godiste": "1964",
+            "mjesto": "Kolonija",
+            "opis_idola": "Drugi najbolji,pomaze HRVATIMA,suprostavlja se balijama,svaku vecer uzme rakiju viska i namiri se."
+          },
+          {
+            "id": 43,
+            "ime": "Srecko",
+            "prezime": "Petrovic",
+            "nadimak": "Srele",
+            "godiste": "1963",
+            "mjesto": "Kolonija",
+            "opis_idola": "Najbolji lijevi bek HERCEG BOSNE,skrtac,voli raditi i druziti se."
+          },
+          {
+            "id": 44,
+            "ime": "Tadija",
+            "prezime": "Rados",
+            "nadimak": "Tade",
+            "godiste": "1953",
+            "mjesto": "Kolonija",
+            "opis_idola": "Poslovan covjek,budala jer je ozenio balinkuru,skrtac."
+          }
+    ]
+}
